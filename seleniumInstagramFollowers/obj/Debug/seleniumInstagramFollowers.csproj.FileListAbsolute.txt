@@ -1,0 +1,8 @@
+c:\users\nikoi\documents\visual studio 2015\Projects\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\seleniumInstagramFollowers.exe.config
+c:\users\nikoi\documents\visual studio 2015\Projects\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\seleniumInstagramFollowers.exe
+c:\users\nikoi\documents\visual studio 2015\Projects\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\seleniumInstagramFollowers.pdb
+c:\users\nikoi\documents\visual studio 2015\Projects\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\WebDriver.dll
+c:\users\nikoi\documents\visual studio 2015\Projects\seleniumInstagramFollowers\seleniumInstagramFollowers\bin\Debug\WebDriver.xml
+c:\users\nikoi\documents\visual studio 2015\Projects\seleniumInstagramFollowers\seleniumInstagramFollowers\obj\Debug\seleniumInstagramFollowers.csprojResolveAssemblyReference.cache
+c:\users\nikoi\documents\visual studio 2015\Projects\seleniumInstagramFollowers\seleniumInstagramFollowers\obj\Debug\seleniumInstagramFollowers.exe
+c:\users\nikoi\documents\visual studio 2015\Projects\seleniumInstagramFollowers\seleniumInstagramFollowers\obj\Debug\seleniumInstagramFollowers.pdb
